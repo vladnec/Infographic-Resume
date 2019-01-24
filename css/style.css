@@ -230,20 +230,9 @@ h5{
 	}	
 	.title{
 		display:flex;		
-		grid-column:2/3;
-		grid-row:1/3;		
 		order:-1;
 		min-height: 200px;
 	}	
-	.education{
-		grid-column:1/3;
-		grid-row:auto/5;
-		align-items:center;
-	}
-	.experience{
-		grid-column:1/3;
-		grid-row:6/8;
-	}
 	.avatar {
 		display:none;
 	}
